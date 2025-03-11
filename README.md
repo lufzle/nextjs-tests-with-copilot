@@ -1,4 +1,4 @@
-# pets-paw-nextjs
+# nextjs-tests-with-copilot
 
 CRUD application for cat lovers. Made using NextJS and [The Cat API](https://www.thecatapi.com/).
 
@@ -26,4 +26,3 @@ to discuss what you would like to change.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-# nextjs-tests-with-copilot
